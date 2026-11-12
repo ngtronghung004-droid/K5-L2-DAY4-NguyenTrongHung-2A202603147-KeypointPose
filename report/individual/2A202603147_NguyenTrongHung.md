@@ -1,14 +1,12 @@
 # Báo cáo cá nhân — NguyenTrongHung-2A202603147
 
-Đổi tên file theo quy tắc `MSSV_HoTen.md`: `2A202603147_NguyenTrongHung.md`.
-
 Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân dung Wikimedia Commons, chỉ dùng trong lớp.
 
 ## 0. Thông tin học viên
 
 - Họ tên: Nguyễn Trọng Hùng
 - MSSV: 2A202603147
-- Email: ngtronghung04@gmail.com
+- Email: ngtronghung004@gmail.com
 - Link repository: https://github.com/ngtronghung004-droid/K5-L2-DAY4-NguyenTrongHung-2A202603147-KeypointPose
 - Phiên bản CVAT (Help → About): 2.74.1
 - Máy: hệ điều hành Windows 11 · RAM 16 GB · chạy CVAT chế độ đầy đủ
